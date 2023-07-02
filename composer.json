@@ -1,0 +1,15 @@
+{
+    "name": "fredg/exo_2_singleton",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fredator",
+            "email": "fred.gruwe@gmail.com"
+        }
+    ],
+    "require": {}
+}
